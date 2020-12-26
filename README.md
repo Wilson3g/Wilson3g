@@ -8,3 +8,6 @@
 - 🤔 I’m looking for help with Django Rest Framework and Serveless functions like AWS Lambda
 - 💬 Ask me about python
 - 📫 How to reach me: wilson.sfj@outlook.com
+
+### My personal projects 👨‍💻
+- http://catsepets.com.br/ - Animal adoption website
