@@ -1,4 +1,4 @@
-### Hi There 👋
+### Hi! I'm Wilson Soares 👋
 
 - 💻 I'm python backend developer and book lover
 - 🇧🇷 Born in São Paulo, Brazil
